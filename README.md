@@ -160,9 +160,11 @@
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Python_beginners](https://t.me/python_beginners) — Чат про Python для новичков (~500)
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
-* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (~1300)
+* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. [![phpGeeks](https://yasb.exileed.com/api/v1/chat/1001047863278/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001047863278)
 * [phpclub](https://t.me/phpclubru) — Чат про PHP
-* [prophp](https://t.me/prophp7) — Чат про современный PHP (~330 человек)
+* [prophp](https://t.me/prophp7) — Чат про современный PHP [![prophp](https://yasb.exileed.com/api/v1/chat/1001042383571/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001042383571)
 * [php.ru](https://t.me/ru_php) — php.ru (~50 человек)
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
@@ -176,13 +178,17 @@
 * [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
-* [Laravel](https://t.me/laravel_pro) — Чат про Laravel (~450 человек)
+* [Laravel](https://t.me/laravel_pro) — Чат про Laravel [![Laravel](https://yasb.exileed.com/api/v1/chat/1001067453809/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001067453809)
 * [Laravel Russia](https://t.me/ru_laravel) — Чат про Laravel (~120 человек)
-* [Yii Framework](https://t.me/yii2ru) — Чат про любимый Yii :-D
-* [React Native](https://t.me/reactnative_ru) — Чат про React Native
-* [Node.js](https://t.me/nodejs_ru) — Чат по NodeJS
+* [Yii Framework](https://t.me/yii2ru) — Чат про любимый Yii :-D [![Yii Framework](https://yasb.exileed.com/api/v1/chat/1001046156199/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001046156199)
+* [React Native](https://t.me/reactnative_ru) — Чат про React Native [![React Native](https://yasb.exileed.com/api/v1/chat/1001052783433/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001052783433)
+* [Node.js](https://t.me/nodejs_ru) — Чат по NodeJS 
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails (~320 человек)
-* [React.js](https://t.me/react_js) — Чат про React.JS
+* [React.js](https://t.me/react_js) — Чат про React.JS [![React.js](https://yasb.exileed.com/api/v1/chat/1001032883247/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001032883247)
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
 * [Symfony Ru](https://t.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
