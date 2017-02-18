@@ -143,12 +143,14 @@
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
-* [pro.go](https://t.me/proGO) — Чат про Golang
+* [pro.go](https://t.me/proGO) [![phpGeeks](https://yasb.exileed.com/api/v1/chat/1001046001048/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001046001048)  — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков)
-* [pro.jvm](https://t.me/jvmchat) — Чат про JVM
+* [pro.jvm](https://t.me/jvmchat) [![phpGeeks](https://yasb.exileed.com/api/v1/chat/1001043090457/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001043090457) — Чат про JVM
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
@@ -158,13 +160,14 @@
 * [pro.python](https://t.me/propython) — Чат про Python. (~320 человек)
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
-* [Python_beginners](https://t.me/python_beginners) — Чат про Python для новичков (~500)
+* [Python_beginners](https://t.me/python_beginners) [![Python_beginners](https://yasb.exileed.com/api/v1/chat/1001051329193/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001051329193) — Чат про Python для новичков (~500)
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
-* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. [![phpGeeks](https://yasb.exileed.com/api/v1/chat/1001047863278/count.svg
-)](https://yasb.exileed.com/telegram/chat/1001047863278)
+* [phpGeeks](https://t.me/phpgeeks) [![phpGeeks](https://yasb.exileed.com/api/v1/chat/1001047863278/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001047863278) — Чат про PHP 
 * [phpclub](https://t.me/phpclubru) — Чат про PHP
-* [prophp](https://t.me/prophp7) — Чат про современный PHP [![prophp](https://yasb.exileed.com/api/v1/chat/1001042383571/count.svg
-)](https://yasb.exileed.com/telegram/chat/1001042383571)
+* [prophp](https://t.me/prophp7) [![prophp](https://yasb.exileed.com/api/v1/chat/1001042383571/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001042383571) — Чат про современный PHP 
 * [php.ru](https://t.me/ru_php) — php.ru (~50 человек)
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
@@ -178,25 +181,28 @@
 * [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
-* [Laravel](https://t.me/laravel_pro) — Чат про Laravel [![Laravel](https://yasb.exileed.com/api/v1/chat/1001067453809/count.svg
-)](https://yasb.exileed.com/telegram/chat/1001067453809)
+* [Laravel](https://t.me/laravel_pro) [![Laravel](https://yasb.exileed.com/api/v1/chat/1001067453809/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001067453809) — Чат про Laravel 
 * [Laravel Russia](https://t.me/ru_laravel) — Чат про Laravel (~120 человек)
-* [Yii Framework](https://t.me/yii2ru) — Чат про любимый Yii :-D [![Yii Framework](https://yasb.exileed.com/api/v1/chat/1001046156199/count.svg
-)](https://yasb.exileed.com/telegram/chat/1001046156199)
-* [React Native](https://t.me/reactnative_ru) — Чат про React Native [![React Native](https://yasb.exileed.com/api/v1/chat/1001052783433/count.svg
-)](https://yasb.exileed.com/telegram/chat/1001052783433)
+* [Yii Framework](https://t.me/yii2ru) [![Yii Framework](https://yasb.exileed.com/api/v1/chat/1001046156199/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001046156199) — Чат про любимый Yii :-D
+* [React Native](https://t.me/reactnative_ru) [![React Native](https://yasb.exileed.com/api/v1/chat/1001052783433/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001052783433) — Чат про React Native 
 * [Node.js](https://t.me/nodejs_ru) — Чат по NodeJS 
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails (~320 человек)
-* [React.js](https://t.me/react_js) — Чат про React.JS [![React.js](https://yasb.exileed.com/api/v1/chat/1001032883247/count.svg
-)](https://yasb.exileed.com/telegram/chat/1001032883247)
+* [React.js](https://t.me/react_js) [![React.js](https://yasb.exileed.com/api/v1/chat/1001032883247/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001032883247) — Чат про React.JS 
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
-* [Symfony Ru](https://t.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
+* [Symfony Ru](https://t.me/symfony_ru) [![ООП](https://yasb.exileed.com/api/v1/chat/1001074471215/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001074471215) — Чат про Symfony Framework. Со строгими правилами и без мата.
 * [Electron Ru](https://t.me/electron_ru) — Чат по Electron (Atom)
 * [HTML5 GameDev](https://t.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
-* [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
+* [ООП](https://t.me/oop_ru) [![ООП](https://yasb.exileed.com/api/v1/chat/1001071233926/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001071233926) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
-* [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
+* [Vue](https://t.me/vuejs_ru) [![ООП](https://yasb.exileed.com/api/v1/chat/1001090118136/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001090118136) — Чат про фреймворк Vue.js
 * [pro.net](https://telegram.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
 
 ##### Сообщества разработчиков и программистов
@@ -205,11 +211,13 @@
 * [frontend_ru](https://t.me/frontend_ru) — Русскоговорящее сообщество веб-фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Программисты](https://t.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
-* [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
+* [Web Programming](https://t.me/WebProgrammingRu) —
+Чат про Frontend и Backend программирование
 * [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
 * [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
 * [Разработка для чайников](https://t.me/ru_devchat) — Чат для разработчиков. Флуд.
-* [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
+* [Telegram Bot Developers](https://t.me/botoid) [![ООП](https://yasb.exileed.com/api/v1/chat/1001041869725/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001041869725)  — Чат про разработку ботов в телеграме
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
@@ -225,7 +233,8 @@
 * [Трактор over IP](https://t.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRu) — Чат про Микротики
-* [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
+* [Asterisk Russian Community](https://t.me/asterisk_ru) [![ООП](https://yasb.exileed.com/api/v1/chat/1001064984391/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001064984391) — Чат про Asterisk
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix (>220)
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный) (~130)
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
@@ -236,10 +245,12 @@
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
-* [DevOps](https://t.me/devops_ru) — Чат про DevOps (>1480 человек)
+* [DevOps](https://t.me/devops_ru) [![ООП](https://yasb.exileed.com/api/v1/chat/1001030317489/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001030317489) — Чат про DevOps
 * [ru_devops](https://t.me/ru_devops) — Чат про DevOps
-* [Docker Официальное Русское Сообщество](https://t.me/ru_docker) — Официальный чат про Docker
-* [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
+* [Docker Официальное Русское Сообщество](https://t.me/ru_docker)  — Официальный чат про Docker
+* [Брутальный Docker](https://t.me/brutal_docker) [![ООП](https://yasb.exileed.com/api/v1/chat/1001050849980/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001050849980) — Чат для тех, кому есть что сказать про докер
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://t.me/kubernetes_ru) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
@@ -264,7 +275,8 @@
 
 ##### Мобильная разработка
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android. (>950)
-* [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
+* [iOS Developers](https://t.me/ios_ru) [![ООП](https://yasb.exileed.com/api/v1/chat/1001063580584/count.svg
+)](https://yasb.exileed.com/telegram/chat/1001063580584) — Чат про разработку под iOS
 * [Xamarin Developers](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 
 ##### Вакансии и работа
